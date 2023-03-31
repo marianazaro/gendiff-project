@@ -1,2 +1,8 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/marianazaro/backend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/marianazaro/backend-project-46/actions)
+#### Description:  
+The utilite compare two files and generate the difference.  
+  
+#### Setup:  
+$ make install  
+$ make publish  
+sudo npm link  
+  
